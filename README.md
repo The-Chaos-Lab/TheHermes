@@ -1,2 +1,2 @@
-# ThehHermes
+# TheHermes
 # Payment with Crypto Currency
